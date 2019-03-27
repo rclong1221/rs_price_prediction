@@ -15,3 +15,5 @@ python server.py
 
 ## Running the prediction script
 ./run_all.sh
+
+![Visualization Image](relative/aa.png?raw=true "Visualization Image")
