@@ -1,0 +1,7 @@
+Actual: 572000.0  Predicted: 435183.16  Error: 136816.84375  Absolute Error: 136816.84375
+Actual: 475000.0  Predicted: 541374.4  Error: -66374.375  Absolute Error: 66374.375
+Actual: 350000.0  Predicted: 369459.88  Error: -19459.875  Absolute Error: 19459.875
+Actual: 362500.0  Predicted: 375401.5  Error: -12901.5  Absolute Error: 12901.5
+Actual: 438000.0  Predicted: 470643.94  Error: -32643.9375  Absolute Error: 32643.9375
+MAE: 32643.937500
+Prediction Time: 0.001180
